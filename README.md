@@ -2,6 +2,8 @@
 
 Monis Workspace Builder is a premium, interactive 3D-like 2D canvas configurator that allows users to design their dream remote office, customize desks and chairs, add accessories via drag-and-drop, and instantly calculate rental setup breakdowns.
 
+🔗 **Live Demo:** [https://monis-setup-simulator.vercel.app/](https://monis-setup-simulator.vercel.app/)
+
 ---
 
 ## 🚀 Short Write-Up
